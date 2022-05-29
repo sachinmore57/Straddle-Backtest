@@ -5,4 +5,4 @@ Intraday Options Straddlle Backtstin on 1minute Bank Nifty Options.
 - Libraries like Pandas, and NumPy are used for data cleaning and data preprocessing.
 - Trade logs are generated and strategy metric calculations are performed using tradelogs. Results are saved in pandas DataFrame and CSV file. 
 - Note: 1minute timeframa options data is not uploaded as it is personal data. To run script it need 1min data of all options strike price across all expiries.
-for sample optios data file is stored in this repository "
+for sample optios data file is stored in this repository "BANKNIFTY_Options_SampleData"
